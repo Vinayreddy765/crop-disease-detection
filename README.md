@@ -42,7 +42,7 @@ An AI-powered **Crop Disease Detection web application** where farmers can:
 ## 📈 Training Graph
 ![Training History](training_history.png)
 ```
-
+```
 📊 Training Results
 - Phase 1 (Feature Extraction): Val Accuracy → 88.09%
 - Phase 2 (Fine-Tuning): Val Accuracy → 95.05%
