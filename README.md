@@ -39,6 +39,16 @@ An AI-powered **Crop Disease Detection web application** where farmers can:
 | Framework | TensorFlow / Keras |
 
 ---
+## 📈 Training Graph
+![Training History](training_history.png)
+```
+
+📊 Training Results
+- Phase 1 (Feature Extraction): Val Accuracy → 88.09%
+- Phase 2 (Fine-Tuning): Val Accuracy → 95.05%
+
+📈 Training Graph
+[your beautiful accuracy/loss graph shown here]
 
 ## 🌱 Supported Crops & Diseases (15 Classes)
 
