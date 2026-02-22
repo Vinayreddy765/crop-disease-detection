@@ -1,5 +1,5 @@
 # 🌿 Crop Disease Detection Using AI
-### Microsoft Elevate AICTE Internship Project — AIML Domain
+### Microsoft Elevate AICTE Internship Project 
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)
@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 👉 **[Click here to open the app](https://crop-disease-detection-8gshys7gzjxjweyszaqgxq.streamlit.app/)**
-> *(Replace this link with your actual Streamlit URL after deployment)*
+
 
 ---
 
