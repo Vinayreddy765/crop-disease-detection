@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Live Demo
-👉 **[Click here to open the app](https://your-app-link.streamlit.app)**
+👉 **[Click here to open the app](https://crop-disease-detection-8gshys7gzjxjweyszaqgxq.streamlit.app/)**
 > *(Replace this link with your actual Streamlit URL after deployment)*
 
 ---
